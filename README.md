@@ -87,6 +87,15 @@ Here is an example nocode on Microsoft Azure. Same can be achieved on AWS Cloud.
 
 Take a moment to absorb that.
 
+### Deploy your own ERC20-Token on the Ethereum-Blockchain
+
+Since you still have no code written for any ERC20-Token, all you have to do is this:
+```
+
+```
+
+Dead simple, right?
+
 ## Contributing
 
 You don't.
