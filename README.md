@@ -106,6 +106,17 @@ Dead simple, right?
 No code was designed to be completely autonomus, secure and resilient. With an extreme advanced AI it runs on any cloud, heals itself, learns the patterns to optimise itself and even understands new features in advance. When it's needed it codes in itself too.
 As such, intervention is not needed. The need for understanding how it works is null. It's completely free of any engagement, unlike any other code.
 
+## Architecture
+
+Design and motivations behind it:
+
+```
+```
+
+A simplified version:
+```
+```
+
 ## Contributing
 
 You don't.
