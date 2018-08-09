@@ -11,7 +11,7 @@ Key conceptions:
 
 ## Why do you do this?
 
-All linters, CI services, builders, packaging systems and other tools needs to config file in your project root directory. I want to show it you.
+All linters, CI services, builders, packaging systems and other tools needs to config file in your project root directory. I want to show it for you.
 
 ## How many people do it?
 
