@@ -8,6 +8,7 @@ Key conceptions:
 
 + Community driven. Contributing are welcome.
 + Contains configuration files for all popular tools.
++ Also contains some hype things like [deep learning](./Deep\ Learning), [serverless](serverless.yaml), [kubernetes](./k8s.yaml) etc.
 
 ## Why do you do this?
 
