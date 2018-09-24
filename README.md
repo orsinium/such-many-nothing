@@ -6,7 +6,7 @@ This repository contains most of this Pull Requests, and also open for any your 
 
 Key conceptions:
 
-+ Community driven. Contributing are welcome.
++ Community driven. Contributors are welcome.
 + Contains configuration files for all popular tools.
 + Also contains some hype things like [deep learning](./deep_learning), [serverless](serverless.yaml), [kubernetes](./k8s.yaml) etc.
 
